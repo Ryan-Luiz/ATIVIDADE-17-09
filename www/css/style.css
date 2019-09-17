@@ -1,0 +1,12 @@
+/**/
+#camera{
+  margin-top: 10px;
+}
+h3{
+  color: darkblue;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+#MySlider{
+  filter: opacity = (80%);
+}
